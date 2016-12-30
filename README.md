@@ -25,6 +25,7 @@ Scripts and programems (JS Fiddle)
 - [Click to Check and Uncheck all checkbox](https://jsfiddle.net/hidaytrahman/e1s7pyjs/)
 
 #### Highlight Programe
+- [Adding unique class using pure javascript](https://run.plnkr.co/plunks/CPiqK7/)
 - [School Management System V2](https://jsfiddle.net/hidaytrahman/mpjnk5nk/)
 - [Get Color Hex code using Input type color in HTML5 using jQuery](https://jsfiddle.net/hidaytrahman/bhxk6jtw/)
 - [Equal Height using Math Object](https://jsfiddle.net/hidaytrahman/us74ppd0/)
