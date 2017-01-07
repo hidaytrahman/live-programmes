@@ -1,6 +1,8 @@
 # live-programmes
 Scripts and programems (JS Fiddle)
 ### JS Fiddles 
+- [HR Currency Converter](https://jsfiddle.net/hidaytrahman/44wqkr2u/)
+- [Change scroll bar position to top using css only](https://jsfiddle.net/hidaytrahman/5bwmLv3c/)
 - [Convert Table structure menu to UL with Submenu](https://jsfiddle.net/hidaytrahman/xsdadr1s/)
 - [Convert Table structure menu to UL using jQuery foreach](https://jsfiddle.net/hidaytrahman/ffn5cdmo/)
 - [Convert Table structure menu to UL using jQuery for loop](https://jsfiddle.net/hidaytrahman/ejbner45/)
