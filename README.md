@@ -3,6 +3,8 @@ Scripts and programems (JS Fiddle)
 
 ### Angular JS
 - [$watch best example in Angular](https://run.plnkr.co/plunks/dqjFQU/)
+- [ng-options example for beginner](https://run.plnkr.co/plunks/0Hvs8S/)
+
 
 ### JS Fiddles 
 - [HR Currency Converter](https://jsfiddle.net/hidaytrahman/44wqkr2u/)
