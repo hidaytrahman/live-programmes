@@ -1,5 +1,9 @@
 # live-programmes
 Scripts and programems (JS Fiddle)
+
+### Angular JS
+- [$watch best example in Angular](https://run.plnkr.co/plunks/dqjFQU/)
+
 ### JS Fiddles 
 - [HR Currency Converter](https://jsfiddle.net/hidaytrahman/44wqkr2u/)
 - [Change scroll bar position to top using css only](https://jsfiddle.net/hidaytrahman/5bwmLv3c/)
