@@ -1,0 +1,12 @@
+.compiler-code comment { color: green}
+.compiler-code keyword { color: blue}
+.compiler-code value { color: red}
+.compiler-code string { color: grey}
+.compiler-code code{
+	font-size: 18px;	
+}
+.compiler-code code {    background: #fff; color: #1b1b1b; font-family: arial;}
+pre {
+	position: relative;
+   
+}
