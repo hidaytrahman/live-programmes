@@ -1,4 +1,4 @@
-# live-programmes
+# Live Programmes
 Scripts and programems (JS Fiddle)
 
 ### Angular JS
@@ -38,3 +38,6 @@ Scripts and programems (JS Fiddle)
 - [Fixed Height On All Screen jquery](https://jsfiddle.net/hidaytrahman/Lx3t8tto/)
 - [Animated Hover social network icons using jquery](https://jsfiddle.net/hidaytrahman/4x8g1jjz/)
 - [Bxslider Vertical Carousal ](https://jsfiddle.net/hidaytrahman/967gc438/)
+
+
+Thanks to <img src="https://embed.plnkr.co/static/plunker.png" width="50"> and <img src="https://maxcdn.icons8.com/Android_L/PNG/512/Logos/jsfiddle-512.png" width="50"> 
