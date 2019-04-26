@@ -1,4 +1,4 @@
-#ES6 - Vanilla JavaScript
+# ES6 - Vanilla JavaScript
 
 ## DOM Manipulation
 
