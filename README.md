@@ -1,6 +1,10 @@
 # Live Programmes
 Scripts and programems (JS Fiddle)
 
+### Vanilla JS
+- [change theme by query parameters](https://run.plnkr.co/plunks/5jUrP2/?theme=blue_theme)
+
+
 ### Angular JS
 - [$watch best example in Angular](https://run.plnkr.co/plunks/dqjFQU/)
 - [ng-options example for beginner](https://run.plnkr.co/plunks/0Hvs8S/)
