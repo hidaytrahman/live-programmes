@@ -36,7 +36,7 @@ Scripts and programems (JS Fiddle)
 - [Back Button Using Jquery](https://jsfiddle.net/hidaytrahman/b80k4bje/)
 - [Click to Check and Uncheck all checkbox](https://jsfiddle.net/hidaytrahman/e1s7pyjs/)
 
-#### Highlight Programe
+#### Highlight Program
 - [Adding unique class using pure javascript](https://run.plnkr.co/plunks/CPiqK7/)
 - [School Management System V2](https://jsfiddle.net/hidaytrahman/mpjnk5nk/)
 - [Get Color Hex code using Input type color in HTML5 using jQuery](https://jsfiddle.net/hidaytrahman/bhxk6jtw/)
